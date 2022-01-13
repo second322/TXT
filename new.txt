@@ -1,0 +1,4 @@
+Full name: Makarov Maksim Sergeevich;
+age: 22;
+number of pets: 1;
+salary:999;
