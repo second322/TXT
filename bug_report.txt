@@ -3,7 +3,7 @@
  Version: 3.2.2;
  Severity: S1(Blocker);
  Priority: P1(High);
- Status: New;
+ Status: Open;
  Author: Makarov Maksim S.;
  Assigned To: Makarov Maksim S.;
  Description: 1)Open file
