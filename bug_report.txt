@@ -1,1 +1,13 @@
-123
+Summary: bug_report_1;
+Project: test_project;
+Component: git_hub;
+Version: 3.2.2;
+Severity: S1(Blocker);
+Priority: P1(High);
+Status: New;
+Author: Makarov Maksim S.;
+Assigned To: Makarov Maksim S.;
+Description: 1)Open file
+             2)edit
+             3)Save;
+Attachment: -;
