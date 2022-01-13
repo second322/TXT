@@ -1,0 +1,5 @@
+favorite movie: Iron man;
+favorite series: Snowpiercer;
+favorite food: Paste;
+favorite season: Summer;
+coutry i want to visit: Hungary again:);

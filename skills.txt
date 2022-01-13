@@ -1,0 +1,13 @@
+Testing theory
+SDLC, STLC
+Client-server architecture
+HTTP
+JSON,XML
+Postman
+SQL
+Python
+Dev tools
+VPN
+Scrum
+ADB
+Charles, Fiddler
